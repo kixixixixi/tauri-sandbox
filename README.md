@@ -11,11 +11,14 @@ This template should help get you started developing with Tauri, React and Types
 ### Template created! To get started run:
 
 ```sh
-cd tauri-app
 pnpm install
 pnpm tauri android init
 pnpm tauri ios init
 ```
+
+### For Web development, run:
+
+`pnpm dev`
 
 ### For Desktop development, run:
 
